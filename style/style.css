@@ -1,0 +1,7 @@
+.header{
+    height: 300px;
+    border: 2px;
+    background-image: url("/pics/sayan.PNG");
+    /* background-repeat: no-repeat; */
+    background-size: 500px;
+}
